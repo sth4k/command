@@ -2,7 +2,7 @@
 command to install virtualenv, cuda, cudnn, etc
 
 
-Virtualenv
+# install Virtualenv
 
 $pip install virtualenv
 $pip install virtualenvwrapper
@@ -19,7 +19,7 @@ $mkvirtualenv my-virtual-environment --system-site-packages target-directory
 
 $workon my-virtual-environment
 
-#install cuda
+# install cuda
 https://gist.github.com/zhanwenchen/e520767a409325d9961072f666815bb8#install-cuda
 
 
