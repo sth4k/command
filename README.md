@@ -10,6 +10,7 @@ $pip install virtualenvwrapper
 $mkdir ~/.virtualenvs
 
 #add to ~/.bashrc
+
 export WORKON_HOME=~/.virtualenvs
 source ~/.local/bin/virtualenvwrapper.sh
 
